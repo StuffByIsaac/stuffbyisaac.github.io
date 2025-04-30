@@ -4,15 +4,12 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+Hello. I am Isaac.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+It all started with an innocuous work request for some graphs and charts back in 2012. It forced me to learn [D3.js](https://d3js.org/) which eventually led me to discover the joys of [creative coding](https://en.wikipedia.org/wiki/Creative_coding).
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+It has been many years of dipping in and out since and I don't have much to show for it.
 
+That's why this blog exists.
 
-[jekyll-organization]: https://github.com/jekyll
+It's a way to keep me accountable and motivated to finish my projects and to mark a tiny corner of the internet with my random ideas and projects.
